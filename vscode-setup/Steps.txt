@@ -12,3 +12,17 @@ Install Extentions
 1. Download .vsix file from saurabh-extention-pack
 2. In VS code goto extentions -> ... -> Install from VSIX
 3. Provide above downloaded file to it
+
+--------------------------------------------------------------
+
+Create exetention pack 
+1. npm install -g yo
+2. npm install -g code-generator
+3. yo code
+4. New extention pack
+5. This will create new folder by the name you provided
+6. Open package.json in that folder
+7. add "publisher": "Saurabh", in it
+8. open README.md file, Delete all content and add some line there
+8. npm install -g vsce
+9. "vsce package" (This command will create .vsce file)

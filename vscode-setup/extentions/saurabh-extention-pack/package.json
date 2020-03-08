@@ -1,0 +1,36 @@
+{
+    "name": "saurabh-extention-pack",
+    "displayName": "saurabh-extention-pack",
+    "description": "General UI development extentions",
+    "publisher": "Saurabh",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "alber70g.solarized-light-differentiated", 
+        "alefragnani.Bookmarks", 
+        "beaugust.blamer-vs", 
+        "christian-kohler.path-intellisense", 
+        "chunsen.bracket-select", 
+        "cmckni3.dark-plus-mono", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "dbaeumer.vscode-eslint", 
+        "dracula-theme.theme-dracula", 
+        "dsznajder.es7-react-js-snippets", 
+        "johnstoncode.svn-scm", 
+        "liximomo.sftp", 
+        "maximetinu.identical-sublime-monokai-csharp-theme-colorizer", 
+        "ms-python.python", 
+        "obrejla.netbeans-light-theme", 
+        "TzachOvadia.todo-list", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "vscode-icons-team.vscode-icons", 
+        "wayou.vscode-todo-highlight", 
+        "whtouche.vscode-js-console-utils"
+    ]
+    
+}

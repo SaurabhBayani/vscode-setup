@@ -1,0 +1,66 @@
+{
+    "editor.fontFamily": "'Victor Mono', 'FiraFlott Medium', 'Inconsolata Mono', 'DejaVu Sans Mono', 'Courier New', monospace",
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 1,
+    "editor.fontWeight": "500",
+    "editor.fontSize": 15,
+    "editor.minimap.enabled": false,
+    "editor.glyphMargin": false,
+    "editor.renderWhitespace": "all",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "name": "Class and Interface Name",
+                "scope": "entity.name.type.class, entity.name.type.interface",
+                "settings": {
+                    "fontStyle": "bold",
+                }
+            }
+        ]
+    },
+
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true,
+        "**/*.svn-base": true,
+        "**/*.svn": true
+    },
+    "files.associations": {
+        "*.tmpl": "html"
+    },
+
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/build": true,
+        "**/bower_components": true,
+        "**/src/inSyncQAWeb/**": true,
+        "**/src/inSyncQA/**": true,
+        "**/src/inSyncQALib/**": true
+    },
+
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "workbench.iconTheme": "vscode-icons",
+    "svn.enableProposedApi": "product",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.rendererType": "dom",
+    "workbench.activityBar.visible": true,
+    "window.zoomLevel": 0,
+    "terminal.integrated.fontSize": 11,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Dracula Soft",
+    "todo-tree.tree.showScanModeButton": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "enableTelemetry": false,
+}
