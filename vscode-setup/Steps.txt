@@ -2,13 +2,13 @@ Install Settings
 1. Install VS Code from internet
 2. Download and install "Victore mono" font from font folder or from https://rubjo.github.io/victor-mono/
 3. Download or Copy "settings.json" from this repo
-4. Resplace setting of your VS Code
+4. Replace setting of your VS Code
 5. Restart VS Code
 
 --------------------------------------------------------------
 
 
-Install Extentions
+Install Extensions
 1. Download .vsix file from saurabh-extention-pack
 2. In VS code goto extentions -> ... -> Install from VSIX
 3. Provide above downloaded file to it
